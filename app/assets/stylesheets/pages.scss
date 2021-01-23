@@ -23,7 +23,7 @@ header {
 	z-index: 500;
 }
 
-h1 {
+.fade-in-left h1 {
 	margin:0;
 	padding:0;
 	font-size: 20px;
@@ -151,7 +151,8 @@ a.button {
 }
 
 .Text {
-	background-color: #ffb8b8;
+	background-color: #ffb8b8
+	;
 	margin-top: 100px;
 	margin-right: 50px;
 	margin-left: 50px;
